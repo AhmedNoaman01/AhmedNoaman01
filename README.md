@@ -2,7 +2,6 @@
 
 ### A junior Data Analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedNoaman01&label=Profile views&color=0e75b6&style=flat" alt="AhmedNoaman01" /> </p>
 
 - 🔭 I'm currently working on **Dashboard Porjects**
 

@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **Python , Sql and Power BI**
 
-- 📫 How to reach me **ahmedabdon1001@gmail.com**
+- 📫 How to reach me **ahmednoaman2001@outlook.com**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1ncJ6mOrI7BwPhAkPrc9f8O7uLPNY1VjE/view?usp=sharing)**
 
